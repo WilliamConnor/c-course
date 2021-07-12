@@ -1,0 +1,4 @@
+﻿  c1.c
+D:\C++Code\Class_Test\class_3\class_3\c1.c(173,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C++Code\Class_Test\class_3\class_3\c1.c(173,9): message : 请考虑在格式字符串中使用“%zd”
+  class_3.vcxproj -> D:\C++Code\Class_Test\class_3\x64\Debug\class_3.exe
