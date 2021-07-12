@@ -1,0 +1,5 @@
+查找newc++file文件，可用Everything
+本机文件在：D:\Tools\Microsoft Visual Studio\2019\Community\Common7\IDE\VC\VCProjectItems
+#define _CRT_SECURE_NO_WARNINGS 1
+添加上，遇到scanf_s;等不会报错
+用notepad++保存时以管理员身份
