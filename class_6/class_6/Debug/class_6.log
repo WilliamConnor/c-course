@@ -1,0 +1,4 @@
+﻿  c1.c
+D:\C++Code\Class_Test\class_6\class_6\c1.c(189,12): error C2017: 非法的转义序列
+D:\C++Code\Class_Test\class_6\class_6\c1.c(189,13): error C2146: 语法错误: 缺少“)”(在标识符“n”的前面)
+D:\C++Code\Class_Test\class_6\class_6\c1.c(189,14): error C2059: 语法错误:“)”
